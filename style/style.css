@@ -666,6 +666,7 @@ button:nth-child(1) {
 	color: #95A1BB;
 }
 .btn-forms-2 button {
+	cursor: pointer;
 	transition: 0.5s;
 	background-color: #6E38F7;
 	color: #fff;
